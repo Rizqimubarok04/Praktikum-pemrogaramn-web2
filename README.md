@@ -1,1 +1,1 @@
-# Praktikum-pemrogaramn-web2
+# Praktikum-perancangan-web2
